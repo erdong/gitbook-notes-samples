@@ -60,9 +60,9 @@
 # Feedback
 
 
-这是我的个人 Prometheus 学习笔记，如果对你有帮助，请你跳转到 [Github Prometheus Notes](https://github.com/erdong/gitbook-notes-samples) 点个 Star 。
+这是我的个人学习笔记的模板，如果对你有帮助，请你跳转到 [Github GitBook Notes Samples](https://github.com/erdong/gitbook-notes-samples) 点个 Star 。
 
-如果你觉得这个笔记帮助到了你，欢迎你将它推荐给其他人。
+如果你觉得这个模板帮助到了你，欢迎你将它推荐给其他人。
 
 如果你遇到了问题，欢迎提 [Github Issue](https://github.com/erdong/gitbook-notes-samples/issues) , 大家一起交流。
 
