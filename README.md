@@ -18,6 +18,7 @@
 # 目录
 
 [发行注记](chapter00/0.1-release.md)
+
 [贡献指南](chapter00/0.2-contribution.md)
 
 ### Part Ⅰ 基础篇
