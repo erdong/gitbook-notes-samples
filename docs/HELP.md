@@ -39,6 +39,9 @@ $ npm install gitbook-cli -g
 
 请按照自己的实际情况修改 `README.md` 和 `SUMMARY.md` 两个文件中的目录，以及 `README.md` 文件中的描述。
 
+按照实际情况修改 发行注记 文件 chapter00/0.1-release.md 和 贡献指南  chapter00/0.2-contribution.md 的内容。
+
+
 ## 配置
 
 请按照自己的实际情况修改 `book.json` 文件中的配置中的作者信息等内容。
