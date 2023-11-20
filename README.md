@@ -73,6 +73,10 @@
 
 如果你遇到了问题，欢迎提 [Github Issue](https://github.com/erdong/gitbook-notes-samples/issues) , 大家一起交流。
 
+# Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/erdong/gitbook-notes-samples.svg)](https://starchart.cc/erdong/gitbook-notes-samples)
+
 # Thanks
 
 感谢 XXX
